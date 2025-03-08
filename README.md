@@ -72,6 +72,9 @@ The Power BI dashboard includes:
 - Monthly distribution of crashes
 - Geographic heatmap of airplane crash locations
 
+## **Dashboard**
+  ![image](https://github.com/user-attachments/assets/a90f6709-aa5f-4940-a156-c87e8d53248f)
+
 ## **Data Story**
 This dashboard was created to analyze aviation safety by examining Boeing 707 airplane crashes and fatalities since 1948. The goal is to identify patterns in crash occurrences, operators, and aircraft types to improve safety measures.
 
