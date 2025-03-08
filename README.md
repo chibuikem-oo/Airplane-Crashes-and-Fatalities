@@ -81,11 +81,6 @@ This dashboard was created to analyze aviation safety by examining Boeing 707 ai
 - The Douglas DC-3 aircraft type is involved in the most crashes
 - Flight routes over the Atlantic and Pacific Oceans are the most dangerous
 
-### **Supporting Evidence**
-- Top 10 Operators: Aeroflot (0.36M crashes) and Military - U.S. Air Force are the top operators
-- Top 10 Aircraft Types: Douglas DC-3 (0.25M crashes) leads the list
-- Flight Routes: Atlantic and Pacific Ocean routes have the highest crash frequencies
-
 ### **Conclusion**
 To improve aviation safety, focus on stricter maintenance protocols for older aircraft like the Douglas DC-3, enhance emergency response systems for transoceanic flights and conduct safety audits for operators with high crash frequencies
 
